@@ -1,6 +1,6 @@
-from secrets import *
 from twilio.rest import Client
 
+# Amend these variables in order for this script to run...
 sid = 'your'
 token = 'info'
 twilio_number = 'goes'
